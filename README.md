@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[My website](https://clintwinter.me)
+
+[LinkedIn](https://linkedin.com/in/clint-winter)
+
+[Twitter](https://twitter.com/clintwinter13)
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/clintwinter/get-help.svg)](https://www.codementor.io/@clintwinter?refer=badge)
+
 <!--
 **ClintWinter/ClintWinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
